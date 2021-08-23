@@ -10,3 +10,6 @@ programs for RV fitting.
 ./RVFitting contains a program that converts the FWF data from NASA Exoplanet Archive to RV vs time plots, which are then used to estimate RV fits using the methods 
 described in the aforementioned textbook. Three examples are contained within, with a dataset and corresponding plot with fitting supplied for each confirmed
 exoplanet.
+
+Future work on this project will include adding interactive functionality to the fitting notebook (e.g. widgets, sliders for parameters), expanding the functionality of
+the original program to multi-planet systems, and applying the methods of the original program to other detection methods (i.e. transit method).
